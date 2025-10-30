@@ -40,8 +40,8 @@ Sou apaixonado por tecnologia, automação, rádio online, desenvolvimento web e
 
 Se quiser trocar ideia, colaborar ou contribuir:
 
-- 🌍 Website: https://cybercoari.com.br *(se já existir, senão só deixe depois)*
-- 📧 Email: admin@cybercoari.com.br *(ou outro que preferir)*
+- 🌍 Website: https://cybercoari.com.br
+- 📧 Email: admin@cybercoari.com.br
 
 ---
 
