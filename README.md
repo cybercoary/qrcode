@@ -1,4 +1,4 @@
-# 👾 CyberCoari
+# 👾 Cybercoari
 
 Bem-vindo ao meu perfil!  
 Sou apaixonado por tecnologia, automação, rádio online, desenvolvimento web e segurança digital.
