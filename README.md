@@ -16,18 +16,6 @@ Sou apaixonado por tecnologia, automação, rádio online, desenvolvimento web e
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Ferramentas |
-|----------|-------------|
-| **Sistema** | Linux, SSH, Apache/Nginx |
-| **Back-end** | PHP, Node.js |
-| **Banco de Dados** | MySQL, MariaDB |
-| **DevOps** | Docker (aprendendo), VPS |
-| **Outros** | HTML, CSS, Shell Script |
-
----
-
 ### 📡 Projetos que estou desenvolvendo
 
 - 🎙️ Sistema de transmissão de rádio online
